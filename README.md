@@ -594,9 +594,14 @@ full virtualization options into payload optimized solution
 
 *Web Performance*
 
+* [PageSpeed](http://modpagespeed.com/) - Apache module for rewriting web pages to reduce latency and bandwidth.
 * [HAProxy](http://www.haproxy.org/) - Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing.
 * [Varnish](https://www.varnish-cache.org/) - HTTP based web application accelerator focusing on optimizing caching and compression.
 
+*Web development*
+
+* [Libraries](http://libraries.io/) - Discover new open source libraries, modules and frameworks and keep track of ones you depend upon.
+* [HHVM](http://hhvm.com/) - Open source virtual machine designed for executing programs written in Hack and PHP with a JIT compilation approach
 
 ## Wikis
 *Wiki software.*
