@@ -461,6 +461,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
 * [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS) created by Martin Roesch in 1998.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
+* [Suricata](http://suricata-ids.org/) - High performance Network IDS, IPS and Network Security Monitoring engine.
 
 ## Service Discovery
 
@@ -602,6 +603,10 @@ full virtualization options into payload optimized solution
 
 * [Libraries](http://libraries.io/) - Discover new open source libraries, modules and frameworks and keep track of ones you depend upon.
 * [HHVM](http://hhvm.com/) - Open source virtual machine designed for executing programs written in Hack and PHP with a JIT compilation approach
+
+* Web security*
+
+* [mod_security](http://www.modsecurity.org/) - Open source, cross-platform web application firewall (WAF) module.
 
 ## Wikis
 *Wiki software.*
