@@ -349,6 +349,7 @@
 * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 * [OPM](http://opm.io/) - Open PostgreSQL Monitoring
 * [Opsview](http://www.opsview.com/solutions/core) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
+* [PacketBeat](http://packetbeat.com/) - Distributed packet monitoring system that can be used for application performance management.
 * [pgCluu](http://pgcluu.darold.net/) - pgCluu is a PostgreSQL performances monitoring and auditing tool.
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
