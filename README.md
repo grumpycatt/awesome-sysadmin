@@ -535,9 +535,12 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Virtualization software.*
 
 * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
+* [ConVirt](http://www.convirture.com) - ConVirt is a complete KVM or Xen virtualized environment with monitoring, provisioning, and live migration.
 * [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
+* [OpenNode](http://opennodecloud.com) - Lightweight bare-metal cloud OS combining Linux Containers and KVM
+full virtualization options into payload optimized solution
 * [Packer](http://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
 * [Proxmox](http://www.proxmox.com) - Proxmox VE is a complete server virtualization management solution, based on KVM and OpenVZ.
 * [QEMU](http://www.qemu.org/) - QEMU is a generic and open source machine emulator and virtualizer.
@@ -590,6 +593,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
 * [Ōlelo Wiki](https://github.com/minad/olelo) - A a wiki that stores pages in a Git repository.
 * [TiddlyWiki](http://tiddlywiki.com) - Complete interactive wiki in JavaScript.
+* [TWiki](http://twiki.org/) - TWiki is a flexible, powerful enterprise wiki written in Perl.
 
 ## License
 
