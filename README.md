@@ -96,7 +96,7 @@
 ## Cloud Computing
 
 * [AppScale](http:/github.com/AppScale/appscale) - Open source cloud software with Google App Engine compatibility.
-* [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
+
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
 * [Eucalyptus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility.
@@ -534,10 +534,12 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Virtualization
 *Virtualization software.*
 
+* [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
 * [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
 * [Packer](http://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
+* [Proxmox](http://www.proxmox.com) - Proxmox VE is a complete server virtualization management solution, based on KVM and OpenVZ.
 * [QEMU](http://www.qemu.org/) - QEMU is a generic and open source machine emulator and virtualizer.
 * [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
