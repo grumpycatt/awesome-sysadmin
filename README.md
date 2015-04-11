@@ -120,7 +120,8 @@
 
 * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
 * [ownCloud](https://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
-* [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
+* [Pydio](https://pydio.com) - An open source file sharing platform for the enterprise, with simple and sleek web and mobile apps written in Python.
+* [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution written in C.
 * [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
 * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
 * [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distribution of data.
