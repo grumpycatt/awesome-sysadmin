@@ -6,7 +6,9 @@
   * [Backups](#backups)
   * [ChatOps](#chatops)
   * [Cloning](#cloning)
-  * [Cloud Computing](#cloud-computing)
+  * [Cloud PaaS](#cloud-paas)
+  * [Cloud IaaS](#cloud-iaas)
+  * [Cloud Orchestration](#cloud-orchestration)
   * [Cloud Storage](#cloud-storage)
   * [Code Review](#code-review)
   * [Collaborative Software](#collaborative-software)
@@ -93,10 +95,14 @@
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
 * [Redo Backup](http://redobackup.org/) - Easy Backup, Recovery and Restore.
 
-## Cloud Computing
+## Cloud PaaS
+
+* [Apache Stratos](http://stratos.apache.org) - Highly-extensible PaaS framework that helps run Apache Tomcat, PHP, and MySQL applications.
+* [DEIS](http://deis.io/) - Open source PaaS that makes it easy to deploy and manage applications on your own servers with a Heroku-inspired workflow.
+
+## Cloud IaaS
 
 * [AppScale](http:/github.com/AppScale/appscale) - Open source cloud software with Google App Engine compatibility.
-
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
 * [Eucalyptus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility.
@@ -110,6 +116,7 @@
 * [BOSH](http://docs.cloudfoundry.org/bosh/) -  IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
 * [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
+* [Kubernetes](http://kubernetes.io/) - Manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops.
 * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
@@ -118,6 +125,7 @@
 
 ## Cloud Storage
 
+* [CozyCloud](https://cozy.io) - A complete DIY cloud solution to host your files and applications.
 * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
 * [ownCloud](https://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
 * [Pydio](https://pydio.com) - An open source file sharing platform for the enterprise, with simple and sleek web and mobile apps written in Python.
