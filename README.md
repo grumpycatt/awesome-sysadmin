@@ -47,6 +47,7 @@
   * [XMPP](#xmpp)
   * [Web](#web)
   * [Wikis](#wikis)
+* [Awesome Sysadmin Extras](./EXTRAS.md)
   
 
 ## Automation
