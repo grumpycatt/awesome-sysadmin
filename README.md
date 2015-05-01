@@ -48,7 +48,7 @@
   * [Web](#web)
   * [Wikis](#wikis)
 * [Awesome Sysadmin Extras](./EXTRAS.md)
-  
+
 
 ## Automation
 *Automation build.*
@@ -147,7 +147,11 @@
 
 * [Citadel/UX](http://www.citadel.org/) - Collaboration suite (messaging and groupware) that is descended from the Citadel family of programs.
 * [EGroupware](http://www.egroupware.org/) - Groupware software written in PHP.
+* [FRIENDS](http://moose-team.github.io/friends/) - P2P chat powered by the web
 * [Horde Groupware](http://www.horde.org/apps/groupware) - PHP based collaborative software suite that includes email, calendars, wikis, time tracking and file management.
+* [Indico](https://indico.github.io/) - The effortless open source tool for event organization, archival and collaboration
+* [Kaiwa](http://getkaiwa.com/) - A modern and Open Source Web client for XMPP
+* [Kandan](http://getkandan.com/) - An Open Source Alternative to HipChat and so much more.
 * [Kolab](https://www.kolab.org) - Another groupware suite.
 * [SOGo](https://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
 * [Zimbra](https://www.zimbra.com/community/) - Collaborative software suite, that includes an email server and web client.
@@ -326,7 +330,7 @@
 * [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
 
-### complete solutions
+### Complete email solutions
 *Software for simple deployment of a mail server, e.g. for inexperienced or impatient admins.*
 
 * [Mail-in-a-Box](https://mailinabox.email/) - Take back control of your email with this easy-to-deploy mail server in a box.
@@ -354,10 +358,12 @@
 * [PacketBeat](http://packetbeat.com/) - Distributed packet monitoring system that can be used for application performance management.
 * [pgCluu](http://pgcluu.darold.net/) - pgCluu is a PostgreSQL performances monitoring and auditing tool.
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
+* [ScoutRealtime](http://scoutapp.github.io/scout_realtime/) - 30 years ago, top was born. scout_realtime is top for the modern developer.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
+* [Netflix Vector](https://github.com/Netflix/vector) - Vector is an on-host performance monitoring framework which exposes hand picked high resolution metrics
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
@@ -462,6 +468,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS) created by Martin Roesch in 1998.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
 * [Suricata](http://suricata-ids.org/) - High performance Network IDS, IPS and Network Security Monitoring engine.
+* [Vault](https://vaultproject.io/) - A tool for managing secrets.
 
 ## Service Discovery
 
@@ -474,7 +481,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [Bitnami](https://bitnami.com/) - Produces open source installers or software packages for web applications and development stacks as well as virtual appliances.
 * [Docker](http://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
-* [LXC](https://linuxcontainers.org/lxc/) -  Userspace interface for the Linux kernel containment features. 
+* [LXC](https://linuxcontainers.org/lxc/) -  Userspace interface for the Linux kernel containment features.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 
 ## SSH
@@ -585,7 +592,7 @@ full virtualization options into payload optimized solution
 * [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
 
 ## Web
-*Web servers.*
+*Web servers*
 
 * [Apache](http://httpd.apache.org/) - Most popular web server.
 * [Cherokee](http://cherokee-project.com/) - Lightweight, high-performance web server/reverse proxy.
@@ -604,7 +611,7 @@ full virtualization options into payload optimized solution
 * [Libraries](http://libraries.io/) - Discover new open source libraries, modules and frameworks and keep track of ones you depend upon.
 * [HHVM](http://hhvm.com/) - Open source virtual machine designed for executing programs written in Hack and PHP with a JIT compilation approach
 
-* Web security*
+*Web security*
 
 * [mod_security](http://www.modsecurity.org/) - Open source, cross-platform web application firewall (WAF) module.
 
