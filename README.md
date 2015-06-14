@@ -147,6 +147,8 @@
 
 * [Citadel/UX](http://www.citadel.org/) - Collaboration suite (messaging and groupware) that is descended from the Citadel family of programs.
 * [EGroupware](http://www.egroupware.org/) - Groupware software written in PHP.
+* [EtherCalc](https://ethercalc.net/) - EtherCalc is a web spreadsheet.
+* [EtherPad](http://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time.
 * [FRIENDS](http://moose-team.github.io/friends/) - P2P chat powered by the web
 * [Horde Groupware](http://www.horde.org/apps/groupware) - PHP based collaborative software suite that includes email, calendars, wikis, time tracking and file management.
 * [Indico](https://indico.github.io/) - The effortless open source tool for event organization, archival and collaboration
@@ -260,6 +262,7 @@
 * [Light Table](http://www.lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 * [ne](http://ne.di.unimi.it/) - Text editor based on the POSIX standard, which is fast, small, powerful and simple to use
+* [NeoVim](http://neovim.io/) - The Vim text editor has been loved by a generation of users. This is the next generation.
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 
@@ -466,6 +469,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [OSSEC](http://ossec.net) - OSSEC is a HIDS that performs log analysis, FIM, rootkit detection, and much more.
 * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
 * [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS) created by Martin Roesch in 1998.
+* [SpaceWalk](http://www.spacewalkproject.org/) - Spacewalk is an open source (GPLv2) Linux systems management.Inventory, collect and distribute packages.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
 * [Suricata](http://suricata-ids.org/) - High performance Network IDS, IPS and Network Security Monitoring engine.
 * [Vault](https://vaultproject.io/) - A tool for managing secrets.
