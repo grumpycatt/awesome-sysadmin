@@ -307,6 +307,7 @@
 *Webmail applications.*
 
 * [Mailpile](https://www.mailpile.is/) - A modern, fast web-mail client with user-friendly encryption and privacy features.
+* [RainLoop](http://www.rainloop.net/) - Simple, modern & fast web-based email client.
 * [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
 * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
 
@@ -518,6 +519,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Ticketing systems
 *Web-based ticketing system.*
 
+* [Brimir](https://getbrimir.com/) - Declutter your support inbox. Provide support with a team of different agents and a perfect overview of all your communication.
 * [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
 * [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
 * [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
@@ -617,7 +619,9 @@ full virtualization options into payload optimized solution
 
 *Web security*
 
+* [Cipherlist](https://cipherli.st/) - Strong Ciphers for Apache, nginx and Lighttpd.
 * [mod_security](http://www.modsecurity.org/) - Open source, cross-platform web application firewall (WAF) module.
+* [SSLDecoder](https://ssldecoder.org/) - SSL/TLS analysis tool.
 
 ## Wikis
 *Wiki software.*
